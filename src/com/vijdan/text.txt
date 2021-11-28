@@ -1,0 +1,25 @@
+For array size: 10000 and number of swaps: 2500the duration is: 3676776
+For array size: 20000 and number of swaps: 3125the duration is: 1907808
+For array size: 30000 and number of swaps: 3750the duration is: 2194976
+For array size: 40000 and number of swaps: 4375the duration is: 2596299
+For array size: 50000 and number of swaps: 5000the duration is: 4633982
+Merge Sort average run time is = 4.518379568E7
+
+
+
+For array size: 10000 and number of swaps: 2500the duration is: 2472850
+For array size: 20000 and number of swaps: 3125the duration is: 2221466
+For array size: 30000 and number of swaps: 3750the duration is: 2178013
+For array size: 40000 and number of swaps: 4375the duration is: 2694903
+For array size: 50000 and number of swaps: 5000the duration is: 3896741
+Quick Sort average run time is = 4.166555188E7
+
+
+
+
+For array size: 10000 and number of swaps: 2500the duration is: 3478385
+For array size: 20000 and number of swaps: 3125the duration is: 3199786
+For array size: 30000 and number of swaps: 3750the duration is: 4713523
+For array size: 40000 and number of swaps: 4375the duration is: 6057406
+For array size: 50000 and number of swaps: 5000the duration is: 5160267
+Radix Sort average run time is = 5.05415374E7
